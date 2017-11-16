@@ -1,0 +1,6 @@
+{
+	"sa_options_menu_title" : "Solo Achievements",
+	"sa_options_menu_desc" : "",
+	"sa_option_increase_forklift_capacity_title" : "Increase Forklift Capacity",
+	"sa_option_increase_forklift_capacity_desc" : "Increase forklift capacity to 8 to be able to transport all required bags in one go for Long Fellow trophy"
+}
