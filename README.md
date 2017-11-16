@@ -1,4 +1,6 @@
 # Payday 2 Solo Achievements
+[![PayPal](https://img.shields.io/badge/donate-PayPal-green.svg)](https://paypal.me/valdasvaitiekaitis) [![BitCoin](https://img.shields.io/badge/donate-BitCoin-green.svg)](https://valdasv.lt/bitcoin)
+
 [Payday 2](http://store.steampowered.com/app/218620/PAYDAY_2/) [BLT](https://github.com/JamesWilko/Payday-2-BLT) cheat mod that allows to solo achievements and trophies that require more than one human player.
 
 For achievements and trophies that required 2 or 4 human players, this number is reduced to 1. Other requirements still apply for every human player. Achievements and trophies affected:
