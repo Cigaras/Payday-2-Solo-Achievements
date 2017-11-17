@@ -4,7 +4,7 @@
 	"author": "Valdas V.",
 	"version": "1.0",
 	"blt_version": 2,
-	"image" : "solo.png",
+	"image" : "logo.png",
 	"updates" : [
 		{
 			"identifier" : "SA"

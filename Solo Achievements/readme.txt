@@ -1,7 +1,6 @@
 # Payday 2 Solo Achievements
-[![PayPal](https://img.shields.io/badge/donate-PayPal-green.svg)](https://paypal.me/valdasvaitiekaitis) [![BitCoin](https://img.shields.io/badge/donate-BitCoin-green.svg)](https://valdasv.lt/bitcoin)
 
-[Payday 2](http://store.steampowered.com/app/218620/PAYDAY_2/) [BLT](https://github.com/JamesWilko/Payday-2-BLT) cheat mod that allows to solo achievements and trophies that require more than one human player.
+Payday 2 BLT cheat mod that allows to solo achievements and trophies that require more than one human player.
 
 For achievements and trophies that required 2 or 4 human players, this number is reduced to 1. Other requirements still apply for every human player. Achievements and trophies affected:
 * Here Comes the Pain Train
@@ -36,10 +35,10 @@ Achievements that I did not found a way to mod:
 
 Achievements and trophies not affected by this mod:
 * Failed Assassination trophy - equip Your bots with sniper rifles
-* Sewer Rats - use [Iter](http://paydaymods.com/mods/433/ITR), [Keepers](http://paydaymods.com/mods/102/KPR) and [Monkeepers](http://paydaymods.com/mods/581/MKP) mods
+* Sewer Rats - use Iter, Keepers and Monkeepers mods
 
 Credits:
-* Author: [Valdas V.](https://valdasv.lt)
-* Icon by [Jonathan Rey](http://www.iconarchive.com/artist/jonathan-rey.html), [free for non-commercial use](http://www.iconarchive.com/show/star-wars-characters-icons-by-jonathan-rey/Han-Solo-01-icon.html), character depicted in this icon is © by Lucasfilm Ltd.
-* Overdrill script by [zephirot](https://www.unknowncheats.me/forum/payday-2-a/160411-overdrill-vault-activator.html)
-* Special thanks to [TdlQ](http://steamcommunity.com/id/tdlq) for [lua dump](https://bitbucket.org/TdlQ/payday-2-luajit) and code samples
+* Author: Valdas V.
+* Icon by Jonathan Rey, free for non-commercial use, character depicted in this icon is © by Lucasfilm Ltd.
+* Overdrill script by zephirot
+* Special thanks to TdlQ for lua dump and code samples
