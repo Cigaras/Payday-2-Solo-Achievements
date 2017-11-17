@@ -31,12 +31,12 @@ Other achievements and trophies:
 * Megalo-Mania - reduced amount of combined stacks required to 390 for 1, 780 for 2 and 1170 for 3 players
 
 Achievements that I did not found a way to mod:
-* Sewer Rats (charliesierra_1) - might be doable with [Iter](http://paydaymods.com/mods/433/ITR) + [Keepers](http://paydaymods.com/mods/102/KPR) + [Monkeepers](http://paydaymods.com/mods/581/MKP)
 * Short Fuse (short_fuse)
 * Pass the Ammo (spa_6)
 
 Achievements and trophies not affected by this mod:
-* Failed Assassination trophy - just equip Your bots with sniper rifles
+* Failed Assassination trophy - equip Your bots with sniper rifles
+* Sewer Rats - use [Iter](http://paydaymods.com/mods/433/ITR), [Keepers](http://paydaymods.com/mods/102/KPR) and [Monkeepers](http://paydaymods.com/mods/581/MKP)
 
 Credits:
 * Author: [Valdas V.](https://valdasv.lt)
