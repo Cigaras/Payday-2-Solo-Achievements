@@ -1,6 +1,6 @@
 # Payday 2 Solo Achievements
 
-Payday 2 BLT cheat mod that allows to solo achievements and trophies that require more than one human player.
+Payday 2 BLT mod that allows to solo achievements and trophies that require more than one human player.
 
 For achievements and trophies that required 2 or 4 human players, this number is reduced to 1. Other requirements still apply for every human player. Achievements and trophies affected:
 * Here Comes the Pain Train
@@ -24,9 +24,7 @@ For achievements that required 4 different masks, this number now scales with nu
 * Riders On the Snowstorm
 * Honor Among Thieves
 
-Other achievements and trophies:
-* Long Fellow trophy - added a mod option that increases forklift capacity to 8 bags to be possible to transport everything in one go, switched off by default because only 3 bags are visible either way
-* OVERDRILL	- added a mod key bind that activates the Overdrill mode ([source](https://www.unknowncheats.me/forum/payday-2-a/160411-overdrill-vault-activator.html))
+Other achievements:
 * Megalo-Mania - reduced amount of combined stacks required to 390 for 1, 780 for 2 and 1170 for 3 players
 
 Achievements that I did not found a way to mod:
@@ -35,7 +33,9 @@ Achievements that I did not found a way to mod:
 
 Achievements and trophies not affected by this mod:
 * Failed Assassination trophy - equip Your bots with sniper rifles
-* Sewer Rats - use Iter, Keepers and Monkeepers mods
+* Long Fellow trophy - use Forklift Capacity mod to increases forklift capacity up to 8 to be able to transport all required bags in one go
+* Sewer Rats - use Monkeepers mod for bots to carry bags and Keepers mod for Jokers to defend bags
+* OVERDRILL	- use Forced Overdrill mod to activate Overdrill mode with a key bind instead of positioning 4 players around the vault
 
 Credits:
 * Author: Valdas V.

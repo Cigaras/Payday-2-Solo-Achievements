@@ -1,4 +1,4 @@
-Hooks:PostHook(AchievementsTweakData, "init", "cst_AchievementsTweakData_init", function (self)
+Hooks:PostHook(AchievementsTweakData, "init", "AchievementsTweakData_init_SoloAchievements", function (self)
     -- Here Comes the Pain Train
     self.complete_heist_achievements.pain_train.num_players = 1
 	-- Cooking With Style

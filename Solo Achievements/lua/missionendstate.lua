@@ -1,4 +1,4 @@
-Hooks:PostHook(MissionEndState, "chk_complete_heist_achievements", "cst_MissionEndState_chk_complete_heist_achievements", function (self)
+Hooks:PostHook(MissionEndState, "chk_complete_heist_achievements", "MissionEndState_chk_complete_heist_achievements_SoloAchievements", function (self)
 	if self._success then
 		-- Reindeer Games, Ghost Riders, Funding Father, Four Monkeys, Sounds of Animals Fighting, Unusual Suspects, Wind of Change, Riders On the Snowstorm and Honor Among Thieves
 		local masks_pass, level_pass, job_pass, jobs_pass, difficulty_pass, difficulties_pass, all_pass, memory, level_id, stage = nil

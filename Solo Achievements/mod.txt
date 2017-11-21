@@ -2,7 +2,7 @@
 	"name": "Solo Achievements",
 	"description": "Allows to solo achievements and trophies that require more than one human player, check the readme file for more information",
 	"author": "Valdas V.",
-	"version": "1.0",
+	"version": "1.0.1",
 	"blt_version": 2,
 	"image" : "logo.png",
 	"updates" : [
@@ -16,27 +16,12 @@
 			"script_path": "lua/achievementstweakdata.lua"
 		},
 		{
-			"hook_id" : "lib/managers/menumanager",
-			"script_path" : "lua/menumanager.lua"
-		},
-		{
 			"hook_id": "lib/states/missionendstate",
 			"script_path": "lua/missionendstate.lua"
 		},
 		{
 			"hook_id": "lib/managers/playermanager",
 			"script_path": "lua/playermanager.lua"
-		}
-	],
-	"keybinds": [
-		{
-			"keybind_id": "Overdrill",
-			"name": "Overdrill",
-			"description": "Allows the Overdrill to be placed",
-			"script_path": "lua/overdrill.lua",
-			"run_in_menu": false,
-			"run_in_game": true,
-			"localized": false
 		}
 	]
 }

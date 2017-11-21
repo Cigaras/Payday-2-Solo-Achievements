@@ -1,4 +1,4 @@
-Hooks:PostHook(PlayerManager, "update", "cst_PlayerManager_update", function (self)
+Hooks:PostHook(PlayerManager, "update", "PlayerManager_update_SoloAchievements", function (self)
 	-- Megalo-Mania
     if #self._global.synced_cocaine_stacks >= 1 then
         local amount = 0
