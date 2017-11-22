@@ -12,6 +12,7 @@ For achievements and trophies that required 2 or 4 human players, this number is
 * Scrap Metal trophy
 * Reputation Beyond Reproach
 * 120 Proof
+* any future achievement or trophy that will require more than one human player
 
 For achievements that required 4 different masks, this number now scales with number of players - for solo play 1 mask is required, for 2 players 2 different masks, for 3 players 3 and so on. Bots do not count. Achievements affected:
 * Reindeer Games

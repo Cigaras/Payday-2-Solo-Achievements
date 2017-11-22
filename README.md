@@ -3,7 +3,7 @@
 
 [Payday 2](http://store.steampowered.com/app/218620/PAYDAY_2/) [BLT](https://github.com/JamesWilko/Payday-2-BLT) mod that allows to solo achievements and trophies that require more than one human player.
 
-For achievements and trophies that required 2 or 4 human players, this number is reduced to 1. Other requirements still apply for every human player. Achievements and trophies affected:
+For achievements and trophies that required 2 or more human players, this number is reduced to 1. Other requirements still apply for every human player. Achievements and trophies affected:
 * Here Comes the Pain Train
 * Cooking With Style
 * Boston Saints
@@ -13,6 +13,7 @@ For achievements and trophies that required 2 or 4 human players, this number is
 * Scrap Metal trophy
 * Reputation Beyond Reproach
 * 120 Proof
+* any future achievement or trophy that will require more than one human player
 
 For achievements that required 4 different masks, this number now scales with number of players - for solo play 1 mask is required, for 2 players 2 different masks, for 3 players 3 and so on. Bots do not count. Achievements affected:
 * Reindeer Games
@@ -24,6 +25,7 @@ For achievements that required 4 different masks, this number now scales with nu
 * Wind of Change
 * Riders On the Snowstorm
 * Honor Among Thieves
+* any future achievement or trophy that will require 4 different masks
 
 Other achievements:
 * Megalo-Mania - reduced amount of combined stacks required to 390 for 1, 780 for 2 and 1170 for 3 players

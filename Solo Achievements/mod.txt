@@ -2,7 +2,7 @@
 	"name": "Solo Achievements",
 	"description": "Allows to solo achievements and trophies that require more than one human player, check the readme file for more information",
 	"author": "Valdas V.",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"blt_version": 2,
 	"image" : "logo.png",
 	"updates" : [
