@@ -24,6 +24,7 @@ For achievements that required 4 different masks, this number now scales with nu
 * Wind of Change
 * Riders On the Snowstorm
 * Honor Among Thieves
+* any future achievement or trophy that will require 4 different masks
 
 Other achievements:
 * Megalo-Mania - reduced amount of combined stacks required to 390 for 1, 780 for 2 and 1170 for 3 players
