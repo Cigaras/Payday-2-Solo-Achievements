@@ -25,6 +25,7 @@ For achievements that required 4 different masks, this number now scales with nu
 * Wind of Change
 * Riders On the Snowstorm
 * Honor Among Thieves
+* Animal Kingdom
 * any future achievement or trophy that will require 4 different masks
 
 Other achievements:
@@ -33,6 +34,7 @@ Other achievements:
 Achievements that I did not found a way to mod:
 * Short Fuse (short_fuse)
 * Pass the Ammo (spa_6)
+* [Tag, You're It! (fort_3)](https://github.com/Cigaras/Payday-2-Solo-Achievements/issues/1)
 
 Achievements and trophies not affected by this mod:
 * Failed Assassination trophy - equip Your bots with sniper rifles
