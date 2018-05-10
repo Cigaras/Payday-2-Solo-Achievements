@@ -29,11 +29,13 @@ For achievements that required 4 different masks, this number now scales with nu
 
 Other achievements:
 * Megalo-Mania - reduced amount of combined stacks required to 390 for 1, 780 for 2 and 1170 for 3 players
+* C-40 (cac_15) - reduced amount of mines required to 14 for 1 and 28 for 2 players
 
 Achievements that I did not found a way to mod:
 * Short Fuse (short_fuse)
 * Pass the Ammo (spa_6)
 * Tag, You're It! (fort_3)
+* Quick Draw (cac_9)
 
 Achievements and trophies not affected by this mod:
 * Failed Assassination trophy - equip Your bots with sniper rifles

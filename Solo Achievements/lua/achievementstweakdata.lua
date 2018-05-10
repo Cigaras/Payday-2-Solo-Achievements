@@ -1,4 +1,4 @@
-Hooks:PostHook(AchievementsTweakData, "init", "AchievementsTweakData_init_SoloAchievements", function (self)
+Hooks:PostHook(AchievementsTweakData, "init", "AchievementsTweakData_init_sa", function (self)
 	-- Reputation Beyond Reproach and 120 Proof
 	for achievement, achievement_data in pairs(self.complete_heist_statistics_achievements or {}) do
 		if achievement_data.num_players then
