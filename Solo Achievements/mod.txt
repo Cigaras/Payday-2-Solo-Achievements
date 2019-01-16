@@ -24,6 +24,10 @@
 			"script_path": "lua/missionendstate.lua"
 		},
 		{
+			"hook_id": "lib/managers/mission/elementfilter",
+			"script_path": "lua/elementfilter.lua"
+		},
+		{
 			"hook_id": "lib/managers/playermanager",
 			"script_path": "lua/playermanager.lua"
 		}
