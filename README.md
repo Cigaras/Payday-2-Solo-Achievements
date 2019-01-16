@@ -13,6 +13,7 @@ For achievements and trophies that required 2 or more human players, this number
 * Scrap Metal trophy
 * Reputation Beyond Reproach
 * 120 Proof
+* Tag, You're It!
 * any future achievement or trophy that will require more than one human player
 
 For achievements that required 4 different masks, this number now scales with number of players - for solo play 1 mask is required, for 2 players 2 different masks, for 3 players 3 and so on. Bots do not count. Achievements affected:
@@ -35,7 +36,6 @@ Other achievements:
 Achievements that I did not found a way to mod:
 * Short Fuse (short_fuse)
 * Pass the Ammo (spa_6)
-* [Tag, You're It! (fort_3)](https://github.com/Cigaras/Payday-2-Solo-Achievements/issues/1)
 * Quick Draw (cac_9)
 
 Achievements and trophies not affected by this mod:
