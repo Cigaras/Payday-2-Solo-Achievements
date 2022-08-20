@@ -12,20 +12,28 @@
 	],
 	"hooks": [
 		{
-			"hook_id": "lib/tweak_data/achievementstweakdata",
-			"script_path": "lua/achievementstweakdata.lua"
+			"hook_id": "core/lib/managers/mission/coreelementcounter",
+			"script_path": "lua/coreelementcounter.lua"
+		},
+		{
+			"hook_id": "core/lib/managers/mission/coremissionmanager",
+			"script_path": "lua/coremissionmanager.lua"
 		},
 		{
 			"hook_id": "lib/managers/achievement/cac_customachievements",
 			"script_path": "lua/cac_customachievements.lua"
 		},
 		{
+			"hook_id": "lib/managers/playermanager",
+			"script_path": "lua/playermanager.lua"
+		},
+		{
 			"hook_id": "lib/states/missionendstate",
 			"script_path": "lua/missionendstate.lua"
 		},
 		{
-			"hook_id": "lib/managers/playermanager",
-			"script_path": "lua/playermanager.lua"
+			"hook_id": "lib/tweak_data/achievementstweakdata",
+			"script_path": "lua/achievementstweakdata.lua"
 		}
 	]
 }
