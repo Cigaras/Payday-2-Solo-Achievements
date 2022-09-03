@@ -24,6 +24,10 @@
 			"script_path": "lua/cac_customachievements.lua"
 		},
 		{
+			"hook_id": "lib/managers/group_ai_states/groupaistatebase",
+			"script_path": "lua/groupaistatebase.lua"
+		},
+		{
 			"hook_id": "lib/managers/playermanager",
 			"script_path": "lua/playermanager.lua"
 		},
