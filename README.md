@@ -29,20 +29,19 @@ For achievements that required 4 different masks, this number now scales with nu
 * any future achievement or trophy that will require 4 different masks
 
 Other achievements:
-* Megalo-Mania - reduced amount of combined stacks required to 390 for 1, 780 for 2 and 1170 for 3 players
+* Megalo-Mania (mad_5) - reduced amount of combined stacks required to 390 for 1, 780 for 2 and 1170 for 3 players
 * C-40 (cac_15) - reduced amount of mines required to 14 for 1 and 28 for 2 players
-
-Achievements that I did not found a way to mod:
-* Short Fuse (short_fuse)
-* Pass the Ammo (spa_6)
-* [Tag, You're It! (fort_3)](https://github.com/Cigaras/Payday-2-Solo-Achievements/issues/1)
-* Quick Draw (cac_9)
+* Short Fuse (short_fuse) - reduced amount of bags required to 3 for 1 and 6 for 2 players
+* Pass the Ammo (spa_6) - reduced amount of ammo bags required to 2 for 1, 4 for 2 and 6 for 3 players
+* Bring Your Cop To Work Day (ovk_9) - reduced amount of converted cops required to 1 for 1, 2 for 2 and 3 for 3 players
 
 Achievements and trophies not affected by this mod:
 * Failed Assassination trophy - equip Your bots with sniper rifles
 * Long Fellow trophy - use [Forklift Capacity](https://github.com/Cigaras/Payday-2-Forklift-Capacity) mod to increases forklift capacity up to 8 to be able to transport all required bags in one go
 * Sewer Rats - use [Monkeepers](http://paydaymods.com/mods/581/MKP) mod for bots to carry bags and [Keepers](http://paydaymods.com/mods/102/KPR) mod for Jokers to defend bags
 * OVERDRILL - use [Forced Overdrill](https://github.com/Cigaras/Payday-2-Forced-Overdrill) mod to activate Overdrill mode with a key bind instead of positioning 4 players around the vault
+* Tag, You're It! - it's a race, just go on multiplayer and do it
+* Quick Draw - not easy, check [this video](https://www.youtube.com/watch?v=wtWzdDBH4YE)
 
 Credits:
 * Author: [Valdas V.](https://valdasv.lt)
