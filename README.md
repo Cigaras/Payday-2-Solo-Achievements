@@ -1,7 +1,7 @@
 # Payday 2 Solo Achievements
-[![PayPal](https://img.shields.io/badge/donate-PayPal-green.svg)](https://paypal.me/valdasvaitiekaitis) [![BitCoin](https://img.shields.io/badge/donate-BitCoin-green.svg)](https://valdasv.lt/bitcoin)
+[![PayPal](https://img.shields.io/badge/donate-PayPal-green.svg)](https://paypal.me/valdasvaitiekaitis)
 
-[Payday 2](http://store.steampowered.com/app/218620/PAYDAY_2/) [BLT](https://github.com/JamesWilko/Payday-2-BLT) mod that allows to solo achievements and trophies that require more than one human player.
+[Payday 2](http://store.steampowered.com/app/218620/PAYDAY_2/) [BLT](https://github.com/JamesWilko/Payday-2-BLT)/[SuperBLT](https://superblt.znix.xyz/) mod that allows to solo achievements and trophies that require more than one human player.
 
 For achievements and trophies that required 2 or more human players, this number is reduced to 1. Other requirements still apply for every human player. Achievements and trophies affected:
 * Here Comes the Pain Train
@@ -45,5 +45,6 @@ Achievements and trophies not affected by this mod:
 
 Credits:
 * Author: [Valdas V.](https://valdasv.lt)
+* Contributors: [Adamasnaldo](https://github.com/Adamasnaldo)
 * Icon by [Jonathan Rey](http://www.iconarchive.com/artist/jonathan-rey.html), [free for non-commercial use](http://www.iconarchive.com/show/star-wars-characters-icons-by-jonathan-rey/Han-Solo-01-icon.html), character depicted in this icon is © by Lucasfilm Ltd.
 * Special thanks to [TdlQ](http://steamcommunity.com/id/tdlq) for [lua dump](https://bitbucket.org/TdlQ/payday-2-luajit) and code samples
