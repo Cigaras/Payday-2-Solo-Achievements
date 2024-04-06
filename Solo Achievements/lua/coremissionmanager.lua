@@ -1,7 +1,7 @@
 core:module("CoreMissionManager")
 
-Hooks:PreHook(MissionManager, "_add_script", "MissionManager__add_script_sa", function (self, data)
-	--Pass the Ammo
+--Pass the Ammo
+Hooks:PreHook(MissionManager, "_add_script", "MissionManager__add_script_sa", function(self, data)
 	if managers.job:current_level_id() ~= "spa" then
 		return
 	end
