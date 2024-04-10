@@ -39,7 +39,6 @@ Achievements and trophies not affected by this mod:
 * Long Fellow trophy - use Forklift Capacity mod to increases forklift capacity up to 8 to be able to transport all required bags in one go
 * Sewer Rats - use Monkeepers mod for bots to carry bags and Keepers mod for Jokers to defend bags
 * OVERDRILL	- use Forced Overdrill mod to activate Overdrill mode with a key bind instead of positioning 4 players around the vault
-* Tag, You're It! - it's a race, just go on multiplayer and do it
 * Quick Draw - not easy, check [this video](https://www.youtube.com/watch?v=wtWzdDBH4YE)
 
 Credits:
